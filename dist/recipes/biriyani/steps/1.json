@@ -1,0 +1,7 @@
+{
+  "ingredients": [
+    { "oil": { "qty": 2, "unit": "tsp" } },
+    { "spice mix": { "qty": 3, "unit": "hand" } }
+  ],
+  "instruction": "Heat a pan and add $$$$$. Add $$$$$"
+}
