@@ -1,1 +1,15 @@
-["upma", "pulao"]
+{
+    "upma": {
+        "timeTaken": 15,
+        "ingredients": [
+            "oil",
+            "mustard seeds",
+            "chana dal",
+            "urad dal"
+        ]
+    },
+    "pulao": {
+        "timeTaken": 20,
+        "ingredients": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "timeTaken": 15,
+  "steps": [
+    {
+      "ingredients": [
+        { "oil": { "qty": 2, "unit": "tsp" } },
+        { "mustard seeds": { "qty": 2, "unit": "tsp" } }
+      ],
+      "instruction": "Heat a pan and add $$$$$. Add $$$$$"
+    },
+    {
+      "ingredients": [
+        { "chana dal": { "qty": 2, "unit": "tsp" } },
+        { "urad dal": { "qty": 2, "unit": "tsp" } }
+      ],
+      "instruction": "When the mustard seeds start spluttering, add $$$$$ and $$$$$"
+    }
+    
+    
+  ]
+}
