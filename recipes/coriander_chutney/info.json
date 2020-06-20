@@ -1,0 +1,69 @@
+{
+  "timeTaken": 15,
+  "steps": [
+    {
+      "ingredients": [
+        { "oil": { "qty": 1, "unit": "tsp" } },
+        { "urad dal": { "qty": 1, "unit": "tsp" } },
+        { "chana dal": { "qty": 1, "unit": "tsp" } }
+      ],
+      "instruction": "Heat a pan and add $$$$$. Add $$$$$ and $$$$$. Let it fry on medium flame till it becomes slightly brown."
+    },
+    {
+      "ingredients": [
+        { "red chilli": { "qty": 1, "unit": "number" } }
+      ],
+      "instruction": "Add $$$$$ and fry for about a minute."
+    },
+    {
+      "ingredients": [
+        { "coriander leaf": { "qty": 1, "unit": "hand" } }
+      ],
+      "instruction": "Add $$$$$ and roast till it shrinks."
+    },
+    {
+      "ingredients": [
+        {"shredded coconut": { "qty": 0.5, "unit": "cup" }}
+      ],
+      "instruction": "Add $$$$$ and fry it in medium flame"
+    },
+    {
+      "ingredients": [
+        {"green chilly": { "qty": 2, "unit": "number" }},
+        {"tamarind": { "qty": 1, "unit": "small amla sized ball of" }}
+      ],
+      "instruction": "Add $$$$$ and $$$$$ while the coconut get fried and turns brown"
+    },
+    {
+      "ingredients": [
+        {"salt": { "qty": 0.5, "unit": "tsp" }},
+        {"water": { "qty": 0.25, "unit": "cup" }}
+      ],
+      "instruction": "Allow the fried mixture to get cooled and transfer it to a mixer jar. Add $$$$$ and $$$$$"
+    },
+    {
+      "ingredients": [
+        {"Oil": { "qty": 0.5, "unit": "tsp" }}
+      
+  
+      ],
+      "instruction": "For tempering, add $$$$$, wait for about 2 minutes till the $$$$$ gets hot "
+    },
+    {
+
+      "ingredients" : [
+        {"mustard": { "qty": 0.5, "unit": "tsp" }},
+        {"red chilly": { "qty": 1, "unit": "number" }},
+        {"curry leaves": { "qty": 6, "unit": "leaves" }}
+      ],
+      
+      "instruction": "Once the oil gets hot, add $$$$$, allow it to splutter, Put the flame in Sim and add the $$$$$ and $$$$$, gently mix with a spoon "
+    },
+    {
+      "instruction": "Add the tempering to the chutney"
+    },
+    {
+      "instruction": "Simple and delicious coriander chutney is ready, which tastes great with different kinds of Dosas  and Idlys "
+    }
+  ]
+}
