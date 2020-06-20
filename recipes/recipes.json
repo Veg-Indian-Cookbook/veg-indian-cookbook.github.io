@@ -1,4 +1,23 @@
 {
+    "coriander_chutney": {
+        "timeTaken": 15,
+        "ingredients": [
+            "oil",
+            "urad dal",
+            "chana dal",
+            "red chilli",
+            "coriander leaf",
+            "shredded coconut",
+            "green chilly",
+            "tamarind",
+            "salt",
+            "water",
+            "Oil",
+            "mustard",
+            "red chilly",
+            "curry leaves"
+        ]
+    },
     "upma": {
         "timeTaken": 15,
         "ingredients": [
